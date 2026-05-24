@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "SSI-BCC",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "calaim10.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Application de suivi des activités du Service Système et Intégration BCC.",
+  "id": "SSI-BCC"
+}
